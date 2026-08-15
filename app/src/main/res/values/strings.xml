@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="title_stopwatch">STOPWATCH</string>
+    <string name="initial_time">00:00:00</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_resume">Resume</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_lap">Lap</string>
+    <string name="laps_header">Recorded Laps</string>
+    <string name="no_laps_recorded">No laps recorded yet.\nPress \"Lap\" while running to record intervals.</string>
+    <string name="lap_format">Lap %1$d</string>
+</resources>

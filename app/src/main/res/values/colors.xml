@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background & Surface Colors -->
+    <color name="bg_primary">#0F172A</color>
+    <color name="bg_card">#1E293B</color>
+    <color name="bg_card_stroke">#334155</color>
+    <color name="bg_lap_row">#1E293B</color>
+    <color name="bg_lap_row_alt">#182234</color>
+
+    <!-- Typography Colors -->
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="text_muted">#64748B</color>
+
+    <!-- Brand & Accent Colors -->
+    <color name="accent_cyan">#38BDF8</color>
+    <color name="accent_glow">#1E3A8A</color>
+
+    <!-- Button Normal & State Colors -->
+    <color name="btn_start_bg">#10B981</color>
+    <color name="btn_start_pressed">#059669</color>
+
+    <color name="btn_pause_bg">#F59E0B</color>
+    <color name="btn_pause_pressed">#D97706</color>
+
+    <color name="btn_reset_bg">#EF4444</color>
+    <color name="btn_reset_pressed">#DC2626</color>
+
+    <color name="btn_lap_bg">#6366F1</color>
+    <color name="btn_lap_pressed">#4F46E5</color>
+
+    <color name="btn_disabled_bg">#1E293B</color>
+    <color name="btn_disabled_text">#475569</color>
+    <color name="btn_disabled_stroke">#334155</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="divider_color">#334155</color>
+</resources>
